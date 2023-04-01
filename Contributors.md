@@ -18,6 +18,7 @@ Hi this shubham making my first contribution ...
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
+- [Hariom Murti](https://github.com/CODSTIL)
 - [HR Naomi](https://github.com/hrnaomi)
 - [Yifei Zhang](https://github.com/yifei-zhhhh)
 - [Flamiing](https://github.com/Flamiing)
